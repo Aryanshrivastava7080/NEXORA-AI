@@ -153,7 +153,7 @@ shikharsachan7263@gmail.com
 
 
 Prasoon Mittal-
-Technical Support
+Backend Developer
 +91 8957515236
 prasoonmittal424@gmail.com
 
@@ -162,7 +162,7 @@ prasoonmittal424@gmail.com
 
 
 Aryan Srivastava-
-Partnerships
+Frontend Developer
 +91 8960179030
 aryansrivastava7080@gmail.com
 
